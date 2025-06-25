@@ -25,9 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Zachary (Zak) Richard Wolfgram"  
   bio              : "Short biography for the left-hand sidebar"
-  employer         : |+
-                      University of Illinois 
-                      Urbana Champaign
+  employer         : "UoI Urbana Champaign
   uri              : # URL
   email            : "zrw4@illinois.edu" 
 
