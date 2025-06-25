@@ -18,7 +18,7 @@ Work experience
 ======
 * Fall 2022 - Current: Graduate Teaching Assistantship
   * University of Illinois Urbana Champaign - Mechanical Science and Engineering Department
-  * Duties includes:
+    Duties includes:
   * In Charge of Running Lab Sessions for an Engineering Materials Course Three Times a Week at the Mechanical Testing Instructional Laboratory (MTIL)[https://mtil.illinois.edu/]
   * Grade and Provide Feedback to Students Assignments that Include Traditional Lab Reports, Letter Format Reports, and Oral Presentations
   * Head TA for Course From Fall 2023 - Spring 2025 Which Included Being in Charge of the Course Canvas Page, Answer Student and Instructor Emails on the Lab Portion of the Course, and Managing a Group of 8 to 13 TAs
