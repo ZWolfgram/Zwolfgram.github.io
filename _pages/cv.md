@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Theoretical and Applied Mechanics, University of Illinois Urbana Champaign, 2027 (expected)
+* B.S. in Mechanical Engineering, University of Wisconsin Platteville, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2022 - Current: Graduate Teaching Assistantship
+  * University of Illinois Urbana Champaign - Mechanical Science and Engineering Department
+  * Duties includes:
+  * In Charge of Running Lab Sessions for an Engineering Materials Course Three Times a Week at the Mechanical Testing Instructional Laboratory (MTIL)[https://mtil.illinois.edu/]
+  * Grade and Provide Feedback to Students Assignments that Include Traditional Lab Reports, Letter Format Reports, and Oral Presentations
+  * Head TA for Course From Fall 2023 - Spring 2025 Which Included Being in Charge of the Course Canvas Page, Answer Student and Instructor Emails on the Lab Portion of the Course, and Managing a Group of 8 to 13 TAs
 
 * Fall 2015: Research Assistant
   * GitHub University
