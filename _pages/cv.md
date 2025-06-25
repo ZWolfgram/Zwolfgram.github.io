@@ -24,20 +24,20 @@ Duties include:
   * Grade and Provide Feedback to Students' Assignments that Include Traditional Lab Reports, Letter Format Reports, and Oral Presentations
   * Head TA for Course From Fall 2023 - Spring 2025, Which Included Being in Charge of the Course Canvas Page, Answer Student and Instructor Emails on the Lab Portion of the Course, and Managing a Group of 8 to 13 TAs
 
-* Summer 2024 and 2025: Graduate High Performance Computing Modernization Program (HPCMP) 2024 and 2025 Summer Intern
+* Summer 2024 and 2025: Graduate High Performance Computing Modernization Program (HPCMP) 2024 and 2025 Summer Intern\
   **Oak Ridge Institute for Science and Education (ORISE)**\
   Duties included: 
   * Developing and running LAMMPS simulations to model polymer chains under orientational polarization in different flow schemes.
   * Hypothesize constitutive models to incorporate orientational polarization of polymers.
   * Presenting completed work in the form of presentations and written reports
 
-* Summer 2023: Algebra 2/Geometry Teacher
+* Summer 2023: Algebra 2/Geometry Teacher\
   **TRIO Upward Bound Program - UIUC**\
   Duties included: 
   * Design and Instruct a Three Week Math Course for 2 Sessions of the TRIO Upward Bound Summer Camp
   * Provides Students with Insight into Real-World Applications of Math Formulations Through Course Projects that Include Heat Transfer, Vibrations, and Constant Acceleration Movement Projects.
 
-* Summer 2021: Field Construction Coordinator/Engineer Intern
+* Summer 2021: Field Construction Coordinator/Engineer Intern\
   **[Blattner Energy](https://www.blattnerenergy.com/)**\
   Duties included: 
   * Assisted With Onsite Records Related With Wind Turbine Constructions for Billing and Managerial Purposes
@@ -46,26 +46,26 @@ Duties include:
   * Took Part in Nationwide Collaborations Related to General Operations
   * Conducted Field Audits of Contractors to Ensure Proper Billing
 
-* Fall 2021 - Spring 2022: ASA Grader - Mechanical Engineering
+* Fall 2021 - Spring 2022: ASA Grader - Mechanical Engineering\
   **UW Platteville ME Department**\
   Duties included: 
   * Graded Weekly Homework Assignments of Students in a Mechanics of Materials Course and a Machine Design Course
   * Kept a Times Log of Hours Worked and Inserted Grades into Canvas
  
-* Fall 2018 - Spring 2022: Student Food Service Manager
+* Fall 2018 - Spring 2022: Student Food Service Manager\
   **UW Platteville Food Service**\
   Duties included: 
   * Managed Bridgeway Stations Workers Through Training, Proper Serving and Health Safety, and Cleaning of Facility
   * Wrote and Implemented a Training Workbook to Assist With Further Training of New Managers and Employees
   * Helped with Tri-Weekly Truck Deliveries and Storage Management
 
-* Summer 2018 - 2022: Groundskeeper
+* Summer 2018 - 2022: Groundskeeper\
   **UW Platteville Food Service**\
   Duties included: 
   * Assist With Mowing, General Outside Care of a Private School Campus, and Furniture Moving
   * Minor Maintenance Experience With Plumbing and Woodwork
 
-* Fall 2015 - Spring 2021: Grocery Manager
+* Fall 2015 - Spring 2021: Grocery Manager\
   **The Market at Beaver Dam (Formerly Known as Rechek's Food Pride)**\
   Duties included: 
   * Assist With Customer Service, Answering Questions, Helping with Groceries, and Sending Customer Queries to Upper Management
