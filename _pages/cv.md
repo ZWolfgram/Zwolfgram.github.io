@@ -74,12 +74,19 @@ Duties include:
     
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Molecular Dynamics Modeling [LAMMPS](https://www.lammps.org/#gsc.tab=0)
+  * Kremer-Grest Polymer Chains Flow Simulations
+  * Granular Hooke Circular Grains Flow Simulations  
+* Experimental Material Testing
+  * Universal Testing Machine (Tension and Compression Testing)
+  * Hardness Measurements (Rockwell B and C, Brinell, Vickers)
+  * ASTM Impact Testing (Charpy and Plate Testing)
+  * Heat Treating (4340 Steel - Quenching, Annealing, Normalizing, and Tempering)
+  * Rolling Mill (Red Brass)
+* Constitutive Modeling of Solids and Liquids
+  * Stress Formulations for Beams and Plates
+  * Odd Elastic Solids
+  * Electro-viscoelastic Polymer Melts  
 
 Publications
 ======
